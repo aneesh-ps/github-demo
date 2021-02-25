@@ -1,7 +1,0 @@
-this is added to the main repository
-
-this is added to the commit 
-
-this is added to the staging area
-
-this is added to the local 
