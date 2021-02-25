@@ -1,6 +1,1 @@
-this is a text file
-this is used for comparison
-
-another section is added to the file
-
-this is committed not pushed
+data erased in file 8
